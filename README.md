@@ -23,4 +23,4 @@ GPT-3
 ](https://arxiv.org/pdf/2005.14165.pdf)
 
 
-# 透過PPO做Fine-tuning
+# 透過PPO做Fine-tuning(https://www.youtube.com/watch?v=IScp-mZ7iS0&t=11s)
