@@ -21,3 +21,6 @@ GPT-2
 GPT-3
 [[5] Language Models are Few-Shot Learners
 ](https://arxiv.org/pdf/2005.14165.pdf)
+
+
+# 透過PPO做Fine-tuning
